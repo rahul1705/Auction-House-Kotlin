@@ -1,0 +1,50 @@
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+Thumbs.db
+/build
+
+build/
+generated/
+
+
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+output.json
+
+# Log/OS Files
+*.log
+*.gz
+*.class
+*.lock
+*.war
+*.jar
+*.tmp
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+app/src/debug/google-services.json
+app/src/release/google-services.json
+
+*.hprof
+
+# Files for the Dalvik VM
+*.dex
+
+# Gradle cache (specific cache folders inside the Gradle directory)
+**/gradle/caches/
+**/gradle/wrapper/dists/
+**/gradle/daemon/
+**/gradle/native/
+**/gradle/android/
+**/gradle/jdks/
