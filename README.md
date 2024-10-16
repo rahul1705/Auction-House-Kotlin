@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/401397f1-65f8-4a02-a4db-9894e22b6439
 
 ### Installation
 - Clone the repository to your local machine:
-  git clone https://github.com/rahul1705/Auction-House.git
+  git clone https://github.com/rahul1705/Auction-House-Kotlin.git
 - Open the project in Android Studio.
 - Add your google-services.json file in the app directory for Firebase integration.
 - Set up your Razorpay API keys in the payment integration section of the code.
